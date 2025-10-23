@@ -11,7 +11,7 @@ http://localhost/
 - Clone the Repository
 - Open your terminal and clone the project repository:
 ```
-git clone https://github.com/your-username/phpServer.git ~/sites/phpServer
+git clone git@github.com:BB-WEX/phpServer.git ~/sites/phpServer
 cd ~/sites/phpServer
 ```
 **Replace your-username with your GitHub username or the repository URL.**
